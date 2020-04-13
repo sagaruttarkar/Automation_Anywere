@@ -16,7 +16,7 @@ public class bespoke_test extends Testbase{
 	
 	
 public bespoke_test() {
-	//demooooo 
+ // DIAMONDS
 
 
 	
